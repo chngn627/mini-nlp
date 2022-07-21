@@ -2,5 +2,5 @@
 
 Used huggingface model ber-base-NER to do the entity extraction part.
 
-works to be done: 
-Due to linited resource of my personal laptop. Didn't finish the website analyse part and docker deployment part and sql part
+Some works to be done, due to linited resource of my personal laptop. 
+Including：SQL, docker deployment, website analytical module
